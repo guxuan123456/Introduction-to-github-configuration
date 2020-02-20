@@ -49,6 +49,7 @@ dev分支也可以是修复某个bug或者为了开发某个issue建立的，当
 
         git status 
 ![avatar](6.png)
+
 从图中可以看出，绿色的就是已经add过的
 
  
